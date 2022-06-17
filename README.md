@@ -1,2 +1,6 @@
-# Halvkyrie's Warframe "Wiki"
+---
+description: TennoDocs is a "Wiki" for Warframe with some Guides and information.
+---
+
+# Home
 
