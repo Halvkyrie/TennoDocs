@@ -1,3 +1,2 @@
-# Readme
+# Halvkyrie's Warframe "Wiki"
 
-Placeholder :) - This will be a wiki / collection of Wf related docs and guides
