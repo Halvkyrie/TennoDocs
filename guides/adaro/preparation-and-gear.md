@@ -62,6 +62,6 @@ Gravimag installed on the archgun in question is also required, so you can actua
 
 ### Nothing!
 
-Leveling a companion doesn't require anything special. Just be sure to either unequip the companion weapon or to unequip the attack precept. Moas and Hounds can attack without an attack precept though, so yes, they _might_ cause a bit of a pain for you but it should not cause too many issues.
+Leveling a companion doesn't require anything special. Just be sure to either unequip the companion weapon or to unequip the attack precept, since a companion attacking can end up alerting enemies. Moas and Hounds can attack without an attack precept though, so yes, they _might_ cause a bit of a pain for you but it should not cause too many issues.
 
 ###
