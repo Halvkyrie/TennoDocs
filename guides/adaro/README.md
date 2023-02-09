@@ -1,5 +1,5 @@
 ---
-description: The End All Be All of affinity grinding. Mostly.
+description: The "End be all" of Affinity grinding. Mostly.
 ---
 
 # Adaro

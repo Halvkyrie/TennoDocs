@@ -15,6 +15,11 @@ Note: The game changes over time, and frames can change too. Make sure to check 
 3. Toxic Lash
 4. Miasma
 
+## Ability Interactions/Synergies
+
+**Toxic Lash** - This adds toxin, and is a separate hit instance. This is useful for effects that act per hit, such as \[Hati-Satya] for the Soma Prime.\
+Additionally, the toxin damage from Toxic Lash does not combine with any other elements, meaning this can be useful for covering toxin for the Profit Taker fight, and allows using elemental combos like Viral + Toxin. This also means there is no need for concern about the elements on your equipped weapons mixing into something you don't want (eg viral + heat does _not_ become viral + gas)
+
 ## How do spores spread?
 
 * When Patient Zero dies
