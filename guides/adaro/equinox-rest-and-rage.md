@@ -30,7 +30,7 @@ These are some builds and notes around them. Note that just like the rest of thi
 
 ### General Equinox Build suggestion
 
-![A General build suggestion for Equinox.](<../../.gitbook/assets/image (1).png>)
+![A General build suggestion for Equinox.](<../../.gitbook/assets/image (1) (2).png>)
 
 This is the suggested build for using Equinox/Rest and Rage for Adaro. Note that the arcanes are not necessary whatsoever.
 
