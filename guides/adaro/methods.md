@@ -44,7 +44,7 @@ Enemies have 3 different alert states. Unalerted, Minor Alerted, and Alerted. By
 
 **Unalerted enemies** are the only enemies you want to interact with. Though you might end up with unavoidable combat and alertness triggers which you have to deal with before continuing. Unalerted enemies will move and behave with a "default" behaviour. Unalerted enemies are generally poor at detecting enemy entities such as your Warframe, companion or Operator.
 
-> ![](<../../.gitbook/assets/image (2).png>)
+> ![](<../../.gitbook/assets/image (2) (1).png>)
 >
 > Unalerted enemies are shown with only the outline of the triangle arrow on the minimap. The image shows 4 enemies. 3 unalerted, and 1 minor alerted close to the player.
 
@@ -55,7 +55,7 @@ Seeing a friendly corpse, Hearing a gunshot, Seeing a projectile, Hearing an all
 
 While the alarms are triggered in a mission, all enemies will enter the minor alerted state by default (if they are not already alerted) and will not return to the unalered state until the alarms have been reset.
 
-> ![](<../../.gitbook/assets/image (2) (1).png>)\
+> ![](<../../.gitbook/assets/image (2) (1) (1).png>)\
 > Minor Alerted enemies are shown with both the outline triangle arrow, and a smaller triangle inside. The image shows many minor alerted enemies, and two alerted enemies.
 
 **Alerted enemies** are problematic. These enemies are aware of the player (and for cases outside Adaro, this means opposing units in general). They will attack you/your companion. In the majority of cases, you have to deal with these enemies. As mentioned in the Stealth affinity section, being hit by these enemies, or killing them (as well as minor alerted enemies) will reset your stealth bonus.
